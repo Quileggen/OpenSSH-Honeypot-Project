@@ -32,7 +32,7 @@ Lists of logs, either in a custom view or a default one, can be exported to a fi
 <em>The option to export events in a list to a file</em><br/>
 
 Different filetypes can be selected based on the requirements of destination software, including the .evtx, .txt, .xml, and .csv. Exporting in .evtx (Event Viewer's native file type) prompts for exporting display information as well, which may be necessary when transferring the log files between computers. See the [logs folder](./logs) of this repository for example exports.<br/>
-
+<br/>
 
 Previous: [3. Accessing the Honeypot via SSH](./3_accessing_honeypot_via_ssh.md)
 Next: [5. Using Windows Firewall to Block IP Addresses](./5_using_wdf_to_block_ip_addresses.md)
