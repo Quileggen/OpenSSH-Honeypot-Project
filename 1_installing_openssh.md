@@ -12,27 +12,23 @@ Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
 ```
 The output should look similar to this: 
 
-![A PowerShell Window with commands to find and install OpenSSH](/img/ps_install_openssh.png)
-<center><em>PowerShell commands for finding and installing OpenSSH</em></center>
+![A PowerShell Window with commands to find and install OpenSSH](/img/ps_install_openssh.png)  
+<em>PowerShell commands for finding and installing OpenSSH</em><br/>
 
 #### Settings Method
 1. Open Windows Settings and navigate to the Apps category
-   ![Windows Settings home page](/img/settings_menu.png)
-
-   <center><em>Windows Settings home page</em></center>
+   ![Windows Settings home page](/img/settings_menu.png)  
+   <em>Windows Settings home page</em>
 2. From Apps & features, click 'Optional features'
-   ![Windows Settings Apps and features page](/img/settings_apps.png)
-
-    <center><em>Windows Settings Apps page</em></center>
+   ![Windows Settings Apps and features page](/img/settings_apps.png)  
+    <em>Windows Settings Apps page</em>
 3. From here, click 'Add a feature'
-   ![Windows Settings Optional features page](/img/settings_optional_features.png)
-
-   <center><em>Apps -> Optional features</em></center>
+   ![Windows Settings Optional features page](/img/settings_optional_features.png)  
+   <em>Apps -> Optional features</em>
 4. Search for 'OpenSSH' and select 'OpenSSH Server' then click 'Install' to download and install the service
-   ![Windows Settings Add optional feature page with OpenSSH Server selected](/img/settings_install_openssh.png)
-
-   <center><em>Adding the OpenSSH Server optional feature</em></center>
-
+   ![Windows Settings Add optional feature page with OpenSSH Server selected](/img/settings_install_openssh.png)  
+    <em>Adding the OpenSSH Server optional feature</em><br/>
+<br/>
 
 Next: [2. Setting up OpenSSH](./2_setting_up_openssh.md)
 
