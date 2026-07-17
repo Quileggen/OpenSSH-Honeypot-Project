@@ -18,15 +18,19 @@ The output should look similar to this:
 #### Settings Method
 1. Open Windows Settings and navigate to the Apps category
    ![Windows Settings home page](/img/settings_menu.png)
+
    <center><em>Windows Settings home page</em></center>
 2. From Apps & features, click 'Optional features'
    ![Windows Settings Apps and features page](/img/settings_apps.png)
+
     <center><em>Windows Settings Apps page</em></center>
 3. From here, click 'Add a feature'
    ![Windows Settings Optional features page](/img/settings_optional_features.png)
+
    <center><em>Apps -> Optional features</em></center>
 4. Search for 'OpenSSH' and select 'OpenSSH Server' then click 'Install' to download and install the service
    ![Windows Settings Add optional feature page with OpenSSH Server selected](/img/settings_install_openssh.png)
+
    <center><em>Adding the OpenSSH Server optional feature</em></center>
 
 
