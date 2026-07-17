@@ -37,4 +37,4 @@ Different filetypes can be selected based on the requirements of destination sof
 Previous: [3. Accessing the Honeypot via SSH](./3_accessing_honeypot_via_ssh.md)
 Next: [5. Using Windows Firewall to Block IP Addresses](./5_using_wdf_to_block_ip_addresses.md)
 
-[Back to Overview](./overview.md)
+[Back to Overview](./README.md)

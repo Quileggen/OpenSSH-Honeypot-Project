@@ -43,4 +43,4 @@ Confirm that the rule is working by attempting to connect over SSH from the same
 
 Previous: [4. Viewing Logs in Event Viewer](./4_viewing_logs_event_viewer.md)
 
-[Back to Overview](./overview.md)
+[Back to Overview](./README.md)

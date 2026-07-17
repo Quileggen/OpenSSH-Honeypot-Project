@@ -28,4 +28,4 @@ If this is the first connection from that client to the host, it may provide a p
 Previous: [2. Setting up OpenSSH](./2_setting_up_openssh.md)
 Next: [4. Viewing Logs in Event Viewer](./4_viewing_logs_event_viewer.md)
 
-[Back to Overview](./overview.md)
+[Back to Overview](./README.md)

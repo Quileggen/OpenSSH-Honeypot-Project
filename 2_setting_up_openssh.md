@@ -29,4 +29,4 @@ New-ItemProperty -Path "HKLM:\SOFTWARE\OpenSSH" -Name "DefaultShell" -Value "C\W
 Previous: [1. Installing OpenSSH](./1_installing_openssh.md)
 Next: [3. Accessing the Honeypot via SSH](./3_accessing_honeypot_via_ssh.md)
 
-[Back to Overview](./overview.md)
+[Back to Overview](./README.md)

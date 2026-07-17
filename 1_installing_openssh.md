@@ -32,4 +32,4 @@ The output should look similar to this:
 
 Next: [2. Setting up OpenSSH](./2_setting_up_openssh.md)
 
-[Back to Overview](./overview.md)
+[Back to Overview](./README.md)
